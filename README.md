@@ -1,8 +1,8 @@
+![Screenshot](./assets/screenshot.png)
+
 # Abdihamid Moallim's Portfolio
 
 Welcome to the source code of my personal portfolio website! This project showcases my professional journey, skills, and projects in a clean and responsive design.
-
-![Screenshot](./assets/screenshot.png)
 
 ## 🌟 Tech Stack
 

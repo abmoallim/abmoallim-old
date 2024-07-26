@@ -50,7 +50,7 @@ You need a web browser to view the portfolio website. If you want to make modifi
 Feel free to modify the content and styles to suit your own needs. All the main sections of the portfolio are located in index.html, and styles are located in style.css and mediaqueries.css.
 
 ### Deployment
-To deploy the website, simply upload the contents of your project directory to your web server or hosting provider.
+To deploy the website, simply upload the contents of your project directory to your web server or hosting provider or simply use GitHub Pages to deploy your website.
 
 ### 🤝 Contributing
 If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.

@@ -1,0 +1,63 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 48px 0 0;
+}
+
+.nav-link.active {
+    color: #007bff;
+}
+
+.hero-section {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.hero-section img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.hero-section h1 {
+    margin-top: 20px;
+    font-size: 2.5rem;
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+}
+
+.card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+#social-media ul {
+    padding: 0;
+}
+
+#social-media li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
